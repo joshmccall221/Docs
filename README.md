@@ -1,3 +1,6 @@
+# Notes
+* [spot](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+
 # ASP.NET Docs
 
 This repository contains the conceptual ASP.NET Core and ASP.NET 4.x documentation hosted at [docs.microsoft.com/aspnet](https://docs.microsoft.com/aspnet). See the [Contributing Guide](CONTRIBUTING.md) and the [issues list](https://github.com/aspnet/Docs/issues) if you would like to help out.
